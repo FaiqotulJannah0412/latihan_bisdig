@@ -65,4 +65,8 @@ h1 {
     font-family:Tahoma, arial, helvetica, sans-serif;
     font-size:14px;
     padding: 15px 15px;}
-    
+
+ #side-bar{
+background:rgba(56, 3, 230, 0.4)
+00; float:right;
+width:150px;}
